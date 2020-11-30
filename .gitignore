@@ -1,13 +1,15 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-./vs
+.vs/
 
 # dependencies
+/Client/.vs/
+
 /Server/bin
 /Server/compiled
 /Server/obj
 /Server/meta.xml
-
+/Server/.vs/
 
 
 # DNX
