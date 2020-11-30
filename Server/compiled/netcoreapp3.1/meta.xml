@@ -1,4 +1,0 @@
-﻿<meta>
-  <info name="Server" type="script" />
-  <script src="compiled/netcoreapp3.1/Server.dll" type="server" lang="compiled" />
-</meta>
