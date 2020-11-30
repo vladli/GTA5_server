@@ -15,7 +15,7 @@ namespace Client
         }
         private void LoginDataToServer(object[] args)
         {
-            Chat.Output($"{args[0]} - {args[1]} - {args[2]}-");
+            Chat.Output($"{args[0]} - {args[1]} - {args[2]}");
             //Events.CallRemote("Server.Player.Authorization.CheckLoginServer", args[0], args[1], args[2]);
         }
         private void LoginDataToClient(object[] args)
