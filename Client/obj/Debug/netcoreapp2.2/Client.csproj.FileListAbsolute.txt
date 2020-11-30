@@ -1,0 +1,132 @@
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\Client.deps.json
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\Client.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\Client.pdb
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\rage-sharp.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\Microsoft.CodeAnalysis.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\Microsoft.CodeAnalysis.CSharp.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\NeoSmart.Hashing.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\xxHash.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\rage-sharp.xml
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\de\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\es\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\it\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\bin\Debug\netcoreapp2.2\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfoInputs.cache
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfo.cs
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\obj\Debug\netcoreapp2.2\Client.csproj.CopyComplete
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\obj\Debug\netcoreapp2.2\Client.dll
+D:\Program Files (x86)\RAGEMP\server-files\bridge\resources\Client\obj\Debug\netcoreapp2.2\Client.pdb
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\Client.deps.json
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\Client.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\Client.pdb
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\Microsoft.CodeAnalysis.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\Microsoft.CodeAnalysis.CSharp.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\MessagePack.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\NeoSmart.Hashing.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\xxHash.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\System.Runtime.CompilerServices.Unsafe.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\System.Text.Encoding.CodePages.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\MessagePack.Annotations.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\de\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\es\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\it\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfoInputs.cache
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfo.cs
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\obj\Debug\netcoreapp2.2\Client.csproj.CopyComplete
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\obj\Debug\netcoreapp2.2\Client.dll
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\obj\Debug\netcoreapp2.2\Client.pdb
+D:\Program Files (x86)\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\rage-sharpN.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\Client.deps.json
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\Client.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\Client.pdb
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\rage-sharpN.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\Microsoft.CodeAnalysis.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\Microsoft.CodeAnalysis.CSharp.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\MessagePack.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\NeoSmart.Hashing.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\xxHash.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\System.Runtime.CompilerServices.Unsafe.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\System.Text.Encoding.CodePages.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\MessagePack.Annotations.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\cs\Microsoft.CodeAnalysis.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\de\Microsoft.CodeAnalysis.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\es\Microsoft.CodeAnalysis.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\fr\Microsoft.CodeAnalysis.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\it\Microsoft.CodeAnalysis.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\ja\Microsoft.CodeAnalysis.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\ko\Microsoft.CodeAnalysis.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\pl\Microsoft.CodeAnalysis.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\ru\Microsoft.CodeAnalysis.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\tr\Microsoft.CodeAnalysis.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\bin\Debug\netcoreapp2.2\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\obj\Debug\netcoreapp2.2\Client.csproj.CoreCompileInputs.cache
+D:\RAGEMP\server-files\dotnet\resources\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfoInputs.cache
+D:\RAGEMP\server-files\dotnet\resources\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfo.cs
+D:\RAGEMP\server-files\dotnet\resources\Client\obj\Debug\netcoreapp2.2\Client.csproj.CopyComplete
+D:\RAGEMP\server-files\dotnet\resources\Client\obj\Debug\netcoreapp2.2\Client.dll
+D:\RAGEMP\server-files\dotnet\resources\Client\obj\Debug\netcoreapp2.2\Client.pdb
