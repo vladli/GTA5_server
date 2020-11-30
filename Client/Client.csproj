@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+  
+
+  
+    <ItemGroup>
+      <Reference Include="Newtonsoft.Json">
+        <HintPath>..\..\..\..\dotnet\Newtonsoft.Json.dll</HintPath>
+      </Reference>
+      <Reference Include="rage-sharpN">
+        <HintPath>..\..\..\..\dotnet\rage-sharpN.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+  
+    <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+      <Exec Command="RD /S /Q &quot;D:\RAGEMP\server-files\client_packages\cs_packages\&quot;&#xD;&#xA;xcopy /s /q &quot;$(ProjectDir)&quot;*.* &quot;D:\RAGEMP\server-files\client_packages\cs_packages\&quot; /EXCLUDE:exclude.txt" />
+    </Target>
+
+</Project>
