@@ -10,7 +10,7 @@ namespace Client
 {
     class CEF
     {
-        private static readonly string Url = "package://cs_packages/Cef/UI/index.html";
+        private static readonly string Url = "package://cs_packages/Cef/UI/index.html#/main";
         private static readonly int BlureTime = 500;
         private static RAGE.Ui.HtmlWindow Cef;
 
@@ -37,11 +37,9 @@ namespace Client
             //Chat.Show(false);
             Chat.Output("LOGIN PAGE");
             //Cef.Active = true;
-            CEF.Call($"trigger('ASD', '1')");
-            Chat.Output("trigger('ASD', '1')");
-            RAGE.Game.Ui.DisplayRadar(false);
-            Player.LocalPlayer.FreezePosition(true);
-            RAGE.Game.Graphics.TransitionToBlurred(BlureTime);
+            //RAGE.Game.Ui.DisplayRadar(false);
+           // Player.LocalPlayer.FreezePosition(true);
+            //RAGE.Game.Graphics.TransitionToBlurred(BlureTime);
         }
         public static void ShowMainCEF()
         {

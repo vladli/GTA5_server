@@ -16,6 +16,13 @@ namespace Client
         private void LoginDataToServer(object[] args)
         {
             Chat.Output($"{args[0]} - {args[1]} - {args[2]}");
+            Chat.Activate(true);
+            Chat.Show(true);
+            RAGE.Game.Ui.DisplayRadar(true);
+            Player.LocalPlayer.FreezePosition(false);
+            RAGE.Ui.Cursor.Visible = false;
+            RAGE.Game.Graphics.TransitionFromBlurred(0);
+            CEF.Close();
             //Events.CallRemote("Server.Player.Authorization.CheckLoginServer", args[0], args[1], args[2]);
         }
         private void LoginDataToClient(object[] args)

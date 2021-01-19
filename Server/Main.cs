@@ -33,8 +33,8 @@ namespace Main
         [ServerEvent(Event.PlayerConnected)]
         public void OnPlayerConnected(Player player)
         {
-            NAPI.Entity.SetEntityTransparency(player, 0);
-            NAPI.Entity.SetEntityDimension(player, Convert.ToUInt32(player.Value) + 1);
+            //NAPI.Entity.SetEntityTransparency(player, 0);
+            //NAPI.Entity.SetEntityDimension(player, Convert.ToUInt32(player.Value) + 1);
         }
     }
 }

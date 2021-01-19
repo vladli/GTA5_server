@@ -18,19 +18,19 @@ namespace Server.Vehicles
         public void OnPlayerEnterVehicle(GTANetworkAPI.Player player, Vehicle vehicle, sbyte seatID)
         {
             player.SendChatMessage($"Enter | ID: {vehicle.Value} | seatid: {seatID}");
-            NAPI.ClientEvent.TriggerClientEvent(player, "Vehicles.UI_ShowVehicleHUD");
-            PlayerModel.VehicleSpeedometer = new Timer((obj) =>
-            {
-                NAPI.ClientEvent.TriggerClientEvent(player, "Vehicles.UI_UpdateVehicleSpeed");
-            }, null, 0, 100);
+            // NAPI.ClientEvent.TriggerClientEvent(player, "Vehicles.UI_ShowVehicleHUD");
+            //PlayerModel.VehicleSpeedometer = new Timer((obj) =>
+            //{
+            //    NAPI.ClientEvent.TriggerClientEvent(player, "Vehicles.UI_UpdateVehicleSpeed");
+            //}, null, 0, 100);
         }
         [ServerEvent(Event.PlayerExitVehicle)]
         public void OnPlayerExitVehicle(GTANetworkAPI.Player player, Vehicle vehicle)
         {
             player.SendChatMessage($"Exit | ID: {vehicle.Value}");
-            PlayerModel.VehicleSpeedometer.Change(Timeout.Infinite, Timeout.Infinite);
+            //PlayerModel.VehicleSpeedometer.Change(Timeout.Infinite, Timeout.Infinite);
 
-            NAPI.ClientEvent.TriggerClientEvent(player, "Vehicles.UI_HideVehicleHUD");
+            //NAPI.ClientEvent.TriggerClientEvent(player, "Vehicles.UI_HideVehicleHUD");
         }
     }
 }
